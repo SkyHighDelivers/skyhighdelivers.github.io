@@ -1,0 +1,13 @@
+img {border-radius: 90%;}
+.resize {
+    width: 200px;
+    height: center;
+}
+
+body {background-color: black;}
+
+th {text-shadow: 1px 5px 5px; font-family:italic,sans-serif;border-style: dashed;color: green; border-radius: 5%;margin: 10%;margin-top: -4%;padding: 1rem;margin-left: 5%;}
+td {font-family:italic,sans-serif;border-style: dashed;color: green; border-radius: 5%;margin: 10%;margin-top: -4%;padding: 1rem;margin-left: 5%;}
+table {margin-left: auto;margin-right: auto; text-align: left;justify-content: left;}
+h1 {text-align: center;font-family:italic,sans-serif;font-size: 150%;color: green;text-shadow: 1px 5px 5px;}
+a {display: flex;align-items: center;justify-content: flex-end;font-family:italic,sans-serif;font-size: 150%;color: whitesmoke;font-weight: bold;text-decoration:none}
