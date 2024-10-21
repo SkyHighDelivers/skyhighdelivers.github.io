@@ -1,0 +1,65 @@
+
+body {
+    font-family: Arial, sans-serif; background-color: black;
+}
+
+.resize {
+    width: 80%;
+    max-width: 600px;
+}
+
+#passcodeContainer {
+    margin-top: 20px;
+}
+
+#mainContent {
+    margin-top: 20px;
+    display: none; /* Keep main content hidden initially */
+}
+
+img {
+    border-radius: 90%;
+}
+
+.resize {
+    width: 200px;
+    height: auto; /* Adjusted for proper aspect ratio */
+}
+
+th, td {
+    text-shadow: 1px 5px 5px;
+    font-family: italic, sans-serif;
+    border-style: dashed;
+    color: green;
+    border-radius: 5%;
+    padding: 1rem;
+    margin: 10%;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+h1, h2 {
+    text-align: center;
+    font-family: italic, sans-serif;
+    font-size: 150%;
+    color: green;
+    text-shadow: 1px 5px 5px;
+}
+
+a {
+    color: whitesmoke;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+button {
+    font-family: italic, sans-serif;
+    font-size: 150%;
+    color: green;
+    text-shadow: 1px 5px 5px;
+    border-radius: 60%;
+}
